@@ -1,0 +1,12 @@
+requests
+bs4
+undetected_chromedriver
+lxml
+telethon
+opentele
+loguru
+uuid
+configparser
+fake_useragent
+asyncio
+eel
