@@ -10,3 +10,4 @@ configparser
 fake_useragent
 asyncio
 eel
+psutil
