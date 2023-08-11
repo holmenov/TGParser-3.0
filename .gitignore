@@ -1,4 +1,6 @@
 /web
 /main.py
+/update.py
 /settings.json
+/settings_updater.json
 /seleniumwire
